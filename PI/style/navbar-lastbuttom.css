@@ -1,0 +1,52 @@
+.navbar-lastbutton {
+    background-color: #04a8a7;
+    overflow: hidden;
+    position:static;
+    top: 0;
+    width: 100%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .navbar-lastbutton a {
+    float: left;
+    display: block;
+    color: black;
+    background-color: white;
+    border: #04a8a7 solid 5px ;
+    border-radius: 10px;
+    text-align: center;
+    padding: 13px 25px;
+    text-decoration: none;
+    font-size: 25px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.navbar-lastbutton button {
+  float: left;
+  display: block;
+  color: black;
+  background-color: white;
+  border: #04a8a7 solid 5px ;
+  border-radius: 10px;
+  text-align: center;
+  padding: 13px 25px;
+  text-decoration: none;
+  font-size: 25px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+  
+  /* Change the color of links on hover */
+  .navbar-lastbutton a:hover {
+    background-color: #d3d4d5;
+    color: black;
+  }
+
+  .navbar-lastbutton button:hover {
+    background-color: #d3d4d5;
+    color: black;
+  }
